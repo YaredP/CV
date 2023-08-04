@@ -1,0 +1,96 @@
+body{
+    background-color: #cad2c5;
+}
+h1{
+    color: #2f3e46;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-size: 50px;
+} 
+.linkedin{
+    text-align: center;
+}
+h2{
+    font-family: 'Oswald', sans-serif;
+    color: #354f52;
+}
+.licenciada{
+    text-align: center;
+}
+.posgrado{
+    text-align: center;
+}
+h3{
+    font-family: 'Oswald', sans-serif;
+    color: #52796f;
+
+}
+.image-profile{
+    text-align: center;
+}
+.profile-description{
+    font-family: 'Oswald', sans-serif;
+    font-size: 20;
+    text-align: center
+}
+.contenedor{
+    display: flex;
+    text-align: center;
+}
+.formacion{
+    margin-left: auto;
+    margin-right: auto;
+}
+.skills{
+    margin-left: auto;
+    margin-right: auto;
+}
+li{
+    text-align: left;
+    margin: right 500px;
+    margin-left: 1px;
+}
+.contenedor{
+    display: flex;
+    text-align: center;
+}
+ul{
+    display: inline-block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Oswald', sans-serif;
+}
+.contenedor{
+    display: flex;
+    text-align: center;
+}
+.experiencia{
+    margin-left: auto;
+    margin-right: auto;
+}
+.software{
+    margin-left: auto;
+    margin-right: auto;
+}
+.contenedor{
+    display: flex;
+    text-align: center;
+}
+ul{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Oswald', sans-serif;
+}
+.portafoliotitulo{
+    text-align: center;
+}
+.portafolio{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+
+}
